@@ -67,4 +67,4 @@ public class DirectoryIterator {
 		
 	}
 }
-//Copyright © 2020 Grace Gabrielson
+//Copyright © 2020 Grace Gabrielson//Copyright © 2020 Grace Gabrielson

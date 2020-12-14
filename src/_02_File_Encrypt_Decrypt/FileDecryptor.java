@@ -45,4 +45,4 @@ public class FileDecryptor {
 		JOptionPane.showMessageDialog(null, decrypted);
 		
 	}
-}
+}//Copyright © 2020 Grace Gabrielson

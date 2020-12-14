@@ -45,4 +45,4 @@ public class FileEncryptor {
 
 		
 	}
-}
+}//Copyright © 2020 Grace Gabrielson
